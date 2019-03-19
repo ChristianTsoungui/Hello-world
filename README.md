@@ -1,2 +1,2 @@
 # Hello-world
-My first repository
+Hello Humans I like to code in Python and solve problems using data.
